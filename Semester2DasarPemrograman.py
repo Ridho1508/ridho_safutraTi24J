@@ -1,0 +1,6 @@
+print('Nama : Ridho')
+print('Umur : 20')
+print('Address : Kalapanunggal')
+print('Jenis Kelamin : Laki-Laki')
+print('Semester : 2')
+print('Jurusan : Teknik Informatika')
